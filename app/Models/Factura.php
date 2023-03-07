@@ -18,6 +18,6 @@ class Factura extends Model
         'precio_total',
     ];
 
-
+//Cristian parra lo hizo
 }
 //Cristian parra lo hizo
